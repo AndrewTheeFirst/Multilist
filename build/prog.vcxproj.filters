@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\03dre\Desktop\Coding Resources\C &amp; CPP Files\Cpp 2024\A05\multilist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\03dre\Desktop\Coding Resources\C &amp; CPP Files\Cpp 2024\A05\testmultilist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\03dre\Desktop\Coding Resources\C &amp; CPP Files\Cpp 2024\A05\multilist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\03dre\Desktop\Coding Resources\C &amp; CPP Files\Cpp 2024\A05\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2B947DF4-046E-3796-ADD4-9EE47BBB9391}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1C761754-3D54-33C5-B187-D52BC32E5EEA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
